@@ -1,0 +1,16 @@
+p {
+    font-size: 15px;
+    color:darkred;
+}
+
+#codePar {
+    color: blue;
+}
+
+.veg {
+    color:green;
+}
+
+.meat{
+    color: brown;
+}
